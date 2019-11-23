@@ -66,13 +66,13 @@ p.lead {
 .social-icons a:hover {
   background-color: #bd5d38;
 }
-.social-icons .linkedin:hover {
+.social-icons .linkedin {
   background-color: #0077b5;
 }
-.social-icons .facebook:hover {
+.social-icons .facebook {
   background-color: #4267b2;
 }
-.social-icons .github:hover {
+.social-icons .github {
   background-color: #000;
 }
 .dev-icons.tools {
@@ -161,10 +161,10 @@ section.resume-section .resume-item .resume-date {
   background-color: #212121 !important;
 }
 .text-primary {
-  color: #e65100 !important;
+  color: #4682b4 !important;
 }
 a {
-  color: #e65100;
+  color: #4682b4;
 }
 a:active,
 a:focus,
@@ -173,4 +173,12 @@ a:hover {
 }
 .navbar-dark .navbar-toggler {
   border: none;
+}
+
+.fa-bars {
+  color: #fff;
+}
+
+.resume-date > .text-primary {
+  font-weight: 700;
 }
