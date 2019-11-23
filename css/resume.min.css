@@ -63,9 +63,9 @@ p.lead {
 .social-icons a:last-child {
   margin-right: 0;
 }
-.social-icons a:hover {
+/* .social-icons a:hover {
   background-color: #bd5d38;
-}
+} */
 .social-icons .linkedin {
   background-color: #0077b5;
 }
@@ -164,12 +164,12 @@ section.resume-section .resume-item .resume-date {
   color: #4682b4 !important;
 }
 a {
-  color: #4682b4;
+  color: #0e4c92;
 }
 a:active,
 a:focus,
 a:hover {
-  color: #824027;
+  color: #003151;
 }
 .navbar-dark .navbar-toggler {
   border: none;
